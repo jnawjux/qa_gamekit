@@ -1,2 +1,2 @@
 # QA Gamekit
-Prototyping a question answering system for use with board game instructions.
+Prototyping a question answering system for use with board game instructions. See the demo notebook for a walkthrough of setting up the pipeline.  This code was also used as an example for a blog post: [Question Answering for Board Games: Building a question answering system to work with board game rulebooks](https://medium.com/@johnnaujoks/question-answering-for-board-games-17065e17d935)
