@@ -103,5 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Mac specific
+.DS_Store
+
 # Too big pre-trained model file
 bert_qa_vCPU-sklearn.joblib
