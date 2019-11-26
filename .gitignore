@@ -109,3 +109,4 @@ venv.bak/
 # Too big pre-trained model file
 bert_qa_vCPU-sklearn.joblib
 qa_gamekit_112519.joblib
+gamekit_model.sav
